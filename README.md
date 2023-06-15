@@ -7,7 +7,9 @@
 - 💬 Ask me about anything related to Laravel/ Symfony & Javascript/Typescript or Angular/React/Express/Flask
 - 📫 reach me at sdupworkuser@gmail.com
 - 😄 Pronouns: ...
-🤔 I’m looking for help with ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/7f12f059-fd9c-4c51-a475-693b245c4110)![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/80303847-ec08-43e9-a6ee-48d04ba07613)
+🤔 I’m looking for help with
+
+![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/7f12f059-fd9c-4c51-a475-693b245c4110)![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/80303847-ec08-43e9-a6ee-48d04ba07613)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/8639b087-35ae-4917-9e07-a4b60ed5b741)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/2d59ca82-ea36-44ee-a2dd-984ba5b009ae)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/f60a8376-d80b-4bd6-b22c-8d2fb81ddc9b)
