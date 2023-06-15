@@ -1,15 +1,15 @@
-### Hello there 👋
+# Hello there 👋
 
 
-- 👨‍💻 I am a full time freelancer on   ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/62e33fbc-85ee-4340-b94d-177d678a1ea8)
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/f25685d3-8c17-47e5-9f9b-65d1cccc3b88)
-- 🔭 I’m a Post Graduate in Computer Programmings ...
-- 🌱 I’m currently learning Python ...
-- 👯 I’m looking to collaborate on Long Term Stable Projects ... 
-- 💬 Ask me about anything related to Laravel/ Symfony & Javascript/Typescript or Angular/React/Express/Flask
-- 📫 reach me at sdupworkuser@gmail.com
+### - 👨‍💻 I am a full time freelancer on   ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/62e33fbc-85ee-4340-b94d-177d678a1ea8)
+          ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/f25685d3-8c17-47e5-9f9b-65d1cccc3b88)
+### - 🔭 I’m a Post Graduate in Computer Programmings ...
+### - 🌱 I’m currently learning Python ...
+### - 👯 I’m looking to collaborate on Long Term Stable Projects ... 
+### - 💬 Ask me about anything related to Laravel/ Symfony & Javascript/Typescript or Angular/React/Express/Flask
+### - 📫 reach me at  ***sdupworkuser@gmail.com***
 
-- 🤔 I can help you with-
+### - 🤔 I can help you with-
 
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/5aee74df-dbc5-4cab-9071-46fee6c679e5)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/95b025b1-3260-4cde-b930-e99b8b412c34)
