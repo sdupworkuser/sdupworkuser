@@ -9,8 +9,9 @@
 - 😄 Pronouns: ...
 🤔 I’m looking for help with
 
-![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/7f12f059-fd9c-4c51-a475-693b245c4110)![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/80303847-ec08-43e9-a6ee-48d04ba07613)
-![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/8639b087-35ae-4917-9e07-a4b60ed5b741)
+![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/7f12f059-fd9c-4c51-a475-693b245c4110)!
+[image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/80303847-ec08-43e9-a6ee-48d04ba07613)
+
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/2d59ca82-ea36-44ee-a2dd-984ba5b009ae)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/f60a8376-d80b-4bd6-b22c-8d2fb81ddc9b)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/41588437-d74b-4357-812f-5aa7c4c3df2b)
@@ -18,7 +19,7 @@
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/647b7fef-400b-4b64-b7ee-e576bdb5fc25)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/83de5760-7d7f-4511-96ae-38729cfb6259)
 ![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/e69f3c31-da39-4509-b690-831b0336210e)
-
+![image](https://github.com/sdupworkuser/sdupworkuser/assets/27762337/8639b087-35ae-4917-9e07-a4b60ed5b741)
 
 <!--
 **sdupworkuser/sdupworkuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
