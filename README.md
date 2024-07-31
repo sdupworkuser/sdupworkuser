@@ -7,7 +7,7 @@
 ### - 🌱 I’m currently learning Python ...
 ### - 👯 I’m looking to collaborate on Long Term Stable Projects ... 
 ### - 💬 Ask me about anything related to Laravel/ Symfony & Javascript/Typescript or Angular/React/Express/Flask
-### - 📫 reach me at  ***sdupworkuser@gmail.com***
+
 
 ### - 🤔 I can help you with-
 
